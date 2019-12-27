@@ -1,0 +1,49 @@
+package com.adactin.stepdefinition;
+
+import org.openqa.selenium.WebDriver;
+
+import com.adactin.baseclass.BaseClass;
+import com.adactin.helper.FileReaderManager;
+import com.adactin.helper.PageObjectManager;
+import com.adactin.pom.LoginPage;
+import com.adactin.runner.Runner;
+
+import cucumber.api.java.en.*;
+
+public class LoginStepDefinition extends BaseClass {
+	public static WebDriver driver = Runner.driver;
+	public static PageObjectManager pom = new PageObjectManager(driver);
+
+	@Given("^user enter application url$")
+	public void user_enter_application_url() throws Throwable {
+		System.out.println("user enter application url");
+	}
+	
+	@Given("^go to landing page$")
+	public void go_to_landing_page() throws Throwable {
+		System.out.println("go to landing page");
+	}
+	
+	@When("^user enter apllication url$")
+	public void user_enter_apllication_url() throws Throwable {
+		String url = FileReaderManager.getInstance().getConfigInstance().geturl();
+		getUrl(url);
+	}
+	
+
+	@When("^user enter \"([^\"]*)\" as username$")
+	public void user_enter_as_username(String arg1) throws Throwable {
+		inputOnElement(pom.getLp().getUserName(), arg1);
+	}
+
+	@When("^user enter \"([^\"]*)\" as password$")
+	public void user_enter_as_password(String arg2) throws Throwable {
+		inputOnElement(pom.getLp().getPassword(), arg2);
+	}
+
+	@Then("^user verify the username in the homepage$")
+	public void user_verify_the_username_in_the_homepage() throws Throwable {
+		clickOnElement(pom.getLp().getLoginBtn());
+	}
+
+}

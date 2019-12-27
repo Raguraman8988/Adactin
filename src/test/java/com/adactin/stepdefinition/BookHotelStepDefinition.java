@@ -1,0 +1,59 @@
+package com.adactin.stepdefinition;
+
+import com.adactin.baseclass.BaseClass;
+import com.adactin.pom.BookHotelPage;
+
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class BookHotelStepDefinition extends BaseClass {
+	
+	
+	BookHotelPage bp = new BookHotelPage(driver);
+	@When("^user enter FirstName$")
+	public void user_enter_FirstName() throws Throwable {
+		
+		inputOnElement(bp.getFirstName(),"ragu" );
+	}
+
+	@When("^user enter LastName$")
+	public void user_enter_LastName() throws Throwable {
+		BookHotelPage bp = new BookHotelPage(driver);
+		inputOnElement(bp.getLastName(), "raman");	    
+	}
+
+	@When("^user enter BillingAddress$")
+	public void user_enter_BillingAddress() throws Throwable {
+		inputOnElement(bp.getAddress(), "Trichy");	    
+	}
+
+	@When("^user enter CcNumber$")
+	public void user_enter_CcNumber() throws Throwable {
+		inputOnElement(bp.getCreditCard(), "1234567891234567");	    
+	}
+
+	@When("^user enter CcType$")
+	public void user_enter_CcType() throws Throwable {
+		dropDownElement(bp.getCcType(), "value", "VISA");	    
+	}
+
+	@When("^user enter CcExpiryMonth$")
+	public void user_enter_CcExpiryMonth() throws Throwable {
+		dropDownElement(bp.getCcExpMon(), "value", "2");	    
+	}
+
+	@When("^user enter CcExpiryYear$")
+	public void user_enter_CcExpiryYear() throws Throwable {
+		dropDownElement(bp.getCcExpYr(), "value", "2021");
+	}
+
+	@When("^user enter CvvNumber$")
+	public void user_enter_CvvNumber() throws Throwable {
+		inputOnElement(bp.getCardCvv(), "567");	    
+	}
+
+	@Then("^user select the BookNow$")
+	public void user_select_the_BookNow() throws Throwable {
+		clickOnElement(bp.getBookNow());	    
+	}
+}
