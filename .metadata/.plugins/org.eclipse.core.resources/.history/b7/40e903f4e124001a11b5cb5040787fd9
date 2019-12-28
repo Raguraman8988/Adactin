@@ -1,0 +1,58 @@
+package com.adactin.stepdefinition;
+
+public class BookHotelStepDefinition {
+	
+	@When("^user enter FirstName$")
+	public void user_enter_FirstName() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^user enter LastName$")
+	public void user_enter_LastName() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^user enter BillingAddress$")
+	public void user_enter_BillingAddress() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^user enter CcNumber$")
+	public void user_enter_CcNumber() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^user enter CcType$")
+	public void user_enter_CcType() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^user enter CcExpiryMonth$")
+	public void user_enter_CcExpiryMonth() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^user enter CcExpiryYear$")
+	public void user_enter_CcExpiryYear() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^user enter CvvNumber$")
+	public void user_enter_CvvNumber() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^user select the BookNow$")
+	public void user_select_the_BookNow() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+}

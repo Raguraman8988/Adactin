@@ -1,0 +1,9 @@
+package com.adactin.stepdefinition;
+
+public class BookingConfirmStepDefinition {
+	@Then("^user enter Itinerary$")
+	public void user_enter_Itinerary() throws Throwable {
+	    
+	}
+
+}

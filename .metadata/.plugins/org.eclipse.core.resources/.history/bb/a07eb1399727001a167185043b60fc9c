@@ -1,0 +1,17 @@
+package com.adactin.stepdefinition;
+
+import cucumber.api.java.After;
+import cucumber.api.java.Before;
+
+public class Hooks {
+	@Before
+	public static void beforScenario() {
+		
+		
+	}
+	
+	@After
+	public static void afterScenario() {
+
+	}
+}

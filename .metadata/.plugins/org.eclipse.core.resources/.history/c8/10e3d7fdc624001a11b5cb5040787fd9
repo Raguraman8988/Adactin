@@ -1,0 +1,4 @@
+Feature: SearchHotel functionality for adactin application
+
+Scenario: Successfull SearchHotel into the adactin application with valied credential
+

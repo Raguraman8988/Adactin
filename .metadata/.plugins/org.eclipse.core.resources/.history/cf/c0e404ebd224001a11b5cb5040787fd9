@@ -1,0 +1,12 @@
+package com.adactin.stepdefinition;
+
+public class SelectHotelStepDefinition {
+	@When("^user enter HotelDetails$")
+	public void user_enter_HotelDetails() throws Throwable {
+	}
+
+	@When("^user select continue$")
+	public void user_select_continue() throws Throwable {
+	}
+
+}

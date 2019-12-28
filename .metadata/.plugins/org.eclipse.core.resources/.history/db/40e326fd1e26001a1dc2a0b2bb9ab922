@@ -1,0 +1,10 @@
+Feature: Login functionality for adactin application
+
+Scenario: Successfull login into the adactin application with valied credential
+
+Given user launch the browser
+When user enter apllication url  
+And user enter "ragu1234" as username
+And user enter "ragu1234" as password
+Then user verify the username in the homepage
+

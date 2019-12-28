@@ -1,0 +1,63 @@
+package com.adactin.stepdefinition;
+
+public class SearchHotelStepDefinition {
+	@When("^user login to application$")
+	public void user_login_to_application() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter location$")
+	public void user_enter_location() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter hotel$")
+	public void user_enter_hotel() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter room$")
+	public void user_enter_room() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter NumberOfRooms$")
+	public void user_enter_NumberOfRooms() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter check in date$")
+	public void user_enter_check_in_date() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter check out date$")
+	public void user_enter_check_out_date() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter adult per room$")
+	public void user_enter_adult_per_room() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter children per room$")
+	public void user_enter_children_per_room() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@Then("^user select the hotel$")
+	public void user_select_the_hotel() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+}

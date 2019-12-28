@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cucumber.api.junit.Cucumber"/>
+<fullyQualifiedTypeName name="cucumber.api.CucumberOptions"/>
+<fullyQualifiedTypeName name="cucumber.api.java.en.Given"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
+<fullyQualifiedTypeName name="cucumber.api.java.en.When"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver.Timeouts"/>
+<fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.junit.AfterClass"/>
+<fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+<fullyQualifiedTypeName name="com.adactin.runner.Runner"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="org.junit.After"/>
+<fullyQualifiedTypeName name="cucumber.api.java.After"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="cucumber.api.java.Before"/>
+<fullyQualifiedTypeName name="cucumber.api.Scenario"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="com.adactin.helper.ConfigurationReader"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="com.adactin.pom.LoginPage"/>
+<fullyQualifiedTypeName name="com.adactin.pom.BookedItineraryPage"/>
+<fullyQualifiedTypeName name="com.adactin.pom.BookHotelPage"/>
+<fullyQualifiedTypeName name="com.adactin.pom.BookingConfirmPage"/>
+<fullyQualifiedTypeName name="com.adactin.pom.SearchHotelPage"/>
+<fullyQualifiedTypeName name="com.adactin.pom.SelectHotelPage"/>
+<fullyQualifiedTypeName name="com.adactin.baseclass.BaseClass"/>
+<fullyQualifiedTypeName name="com.adactin.helper.PageObjectManager"/>
+<fullyQualifiedTypeName name="com.adactin.helper.FileReaderManager"/>
+</qualifiedTypeNameHistroy>

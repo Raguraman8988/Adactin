@@ -1,0 +1,14 @@
+package com.adactin.stepdefinition;
+
+public class SelectHotelStepDefinition {
+	@When("^user enter HotelDetails$")
+	public void user_enter_HotelDetails() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	}
+
+	@When("^user select continue$")
+	public void user_select_continue() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	}
+
+}

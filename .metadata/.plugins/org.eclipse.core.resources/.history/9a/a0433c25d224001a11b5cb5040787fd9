@@ -1,0 +1,5 @@
+Feature: SelectHotel functionality for adactin application
+
+Scenario: Successfull SelectHotel into the adactin application with valied credential
+
+When

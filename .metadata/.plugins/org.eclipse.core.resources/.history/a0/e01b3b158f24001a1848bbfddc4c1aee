@@ -1,0 +1,6 @@
+Scenario: Unsuccessfull login into the adactin application with invalid
+Given user launch the browser for invalid login
+When user enter apllication url  
+And user enter valied username
+And user enter valied password
+Then user verify the username in the homepage

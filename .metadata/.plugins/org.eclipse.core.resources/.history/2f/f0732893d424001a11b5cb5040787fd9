@@ -1,0 +1,3 @@
+Feature: BookHotel functionality for adactin application
+
+Scenario: Successfull BookHotel into the adactin application with valied credential

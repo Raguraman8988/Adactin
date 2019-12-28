@@ -1,0 +1,12 @@
+package com.adactin.stepdefinition;
+
+public class Hooks {
+	public static void beforScenario() {
+		@Before
+		
+	}
+	
+	public static void afterScenario() {
+
+	}
+}

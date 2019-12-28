@@ -1,0 +1,64 @@
+package com.adactin.stepdefinition;
+
+import com.adactin.baseclass.BaseClass;
+import com.adactin.pom.SearchHotelPage;
+
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class SearchHotelStepDefinition extends BaseClass {
+	SearchHotelPage sh;
+	
+	@When("^user enter location$")
+	public void user_enter_location() throws Throwable {
+		sh = SearchHotelPage(driver);
+	}
+
+	@When("^user enter hotel$")
+	public void user_enter_hotel() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter room$")
+	public void user_enter_room() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter NumberOfRooms$")
+	public void user_enter_NumberOfRooms() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter check in date$")
+	public void user_enter_check_in_date() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter check out date$")
+	public void user_enter_check_out_date() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter adult per room$")
+	public void user_enter_adult_per_room() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@When("^user enter children per room$")
+	public void user_enter_children_per_room() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@Then("^user select the hotel$")
+	public void user_select_the_hotel() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+}

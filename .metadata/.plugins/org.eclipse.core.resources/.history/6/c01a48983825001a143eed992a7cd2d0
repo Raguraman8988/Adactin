@@ -1,0 +1,12 @@
+package com.adactin.stepdefinition;
+
+import com.adactin.baseclass.BaseClass;
+
+public class BookedItineraryStepDefinition extends BaseClass{
+	
+	@Then("^user enter Logout$")
+	public void user_enter_Logout() throws Throwable {
+		
+	}
+
+}

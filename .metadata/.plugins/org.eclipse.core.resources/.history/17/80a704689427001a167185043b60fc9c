@@ -1,0 +1,13 @@
+package com.adactin.stepdefinition;
+
+public class Hooks {
+	public static void beforScenario() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static void afterScenario() {
+		// TODO Auto-generated method stub
+
+	}
+}

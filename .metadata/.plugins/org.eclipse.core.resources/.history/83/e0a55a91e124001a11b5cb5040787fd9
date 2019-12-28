@@ -1,0 +1,13 @@
+package com.adactin.stepdefinition;
+
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.adactin.baseclass.BaseClass;
+import com.adactin.pom.BookHotelPage;
+
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class BookHotelStepDefinition {
+	
+}

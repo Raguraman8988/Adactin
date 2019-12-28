@@ -1,0 +1,12 @@
+package com.adactin.helper;
+
+public class FileReaderManager {
+	private FileReaderManager() {
+		
+	}
+	
+	public static void getInstance() {
+		// TODO Auto-generated method stub
+
+	}
+}

@@ -1,0 +1,47 @@
+1576990613499	Delete element
+1577020626945	Rename type 'BookedItinerary'
+1577020854417	Delete element
+1577022767744	Rename type 'StepDefinition'
+1577025456264	Delete element
+1577025482394	Delete element
+1577025501848	Delete element
+1577025516673	Delete element
+1577025530574	Delete element
+1577033535754	Delete element
+1577033571377	Delete element
+1577033781385	Delete element
+1577033799138	Delete element
+1577034084805	Delete element
+1577072165231	Rename resource 'AdactinBookHotel.feature'
+1577072203453	Rename resource 'BookingConfirm.feature'
+1577072216851	Rename resource 'AdactinBookedItinerary.feature'
+1577072390720	Rename resource 'AdactinVBookedItinerary.feature'
+1577072404385	Rename resource 'AdactinUBookedItinerary.feature'
+1577072517720	Rename resource 'AdactinLogin.feature'
+1577072532790	Rename resource 'AdactinSearchHotel.feature'
+1577072547348	Rename resource 'AAdactinLogin.feature'
+1577072578618	Rename resource 'BAdactinSearchHotel.feature'
+1577072587831	Rename resource 'AbAdactinSearchHotel.feature'
+1577072615088	Rename resource 'AdactinLogin.feature'
+1577072624647	Rename resource 'ALogin.feature'
+1577072634062	Rename resource 'AAdactinSearchHotel.feature'
+1577072651878	Rename resource 'AdactinSelectHotel.feature'
+1577072685315	Rename resource 'ABdactinSelectHotel.feature'
+1577072722131	Rename resource 'AedactinSelectHotel.feature'
+1577072753159	Rename resource 'AeSelectHotel.feature'
+1577072790453	Rename resource 'AdactinTBookHotel.feature'
+1577072809784	Rename resource 'BookingUConfirm.feature'
+1577072824963	Rename resource 'AdactinVBookedItinerary.feature'
+1577072890987	Rename resource 'AdactinSearchHotel.feature'
+1577072901718	Rename resource 'AdSelectHotel.feature'
+1577072927752	Rename resource 'AeBookHotel.feature'
+1577072940294	Rename resource 'AfBookingUConfirm.feature'
+1577072953663	Rename resource 'AgAdactinVBookedItinerary.feature'
+1577169063501	Delete element
+1577179070520	Rename resource 'AALogin.feature'
+1577179137775	Move 5 resources to 'Backup Files'
+1577179148228	Rename resource 'AbSearchHotel.feature'
+1577179156070	Rename resource 'AcSelectHotel.feature'
+1577179164279	Rename resource 'AdBookHotel.feature'
+1577179170019	Rename resource 'AeBookingUConfirm.feature'
+1577179177093	Rename resource 'AfBookedItinerary.feature'

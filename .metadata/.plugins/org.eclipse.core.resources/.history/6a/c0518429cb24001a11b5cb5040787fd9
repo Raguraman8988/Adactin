@@ -1,0 +1,57 @@
+package com.adactin.stepdefinition;
+
+import com.adactin.baseclass.BaseClass;
+import com.adactin.pom.SearchHotelPage;
+
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class SearchHotelStepDefinition extends BaseClass {
+	SearchHotelPage sh = new SearchHotelPage(driver);
+	
+	@When("^user enter location$")
+	public void user_enter_location() throws Throwable {
+		dropDownElement(sh.getLocation(), "value", "Sydney");
+	}
+
+	@When("^user enter hotel$")
+	public void user_enter_hotel() throws Throwable {
+		dropDownElement(sh.getHotel(), "value", "Hotel Sunshine");
+	}
+
+	@When("^user enter room$")
+	public void user_enter_room() throws Throwable {
+		dropDownElement(sh.getRoomType(), "value", "Standard");
+	}
+
+	@When("^user enter NumberOfRooms$")
+	public void user_enter_NumberOfRooms() throws Throwable {
+		dropDownElement(sh.getNoOfRoom(), "value", "3");	    
+	}
+
+	@When("^user enter check in date$")
+	public void user_enter_check_in_date() throws Throwable {
+		inputOnElement(sh.getInDate(), "22/12/2019");	    
+	}
+
+	@When("^user enter check out date$")
+	public void user_enter_check_out_date() throws Throwable {
+		inputOnElement(sh.getOutDate(), "30/01/2020");	    
+	}
+
+	@When("^user enter adult per room$")
+	public void user_enter_adult_per_room() throws Throwable {
+		dropDownElement(sh.getAdultRoom(), "value", "2");	    
+	}
+
+	@When("^user enter children per room$")
+	public void user_enter_children_per_room() throws Throwable {
+		inputOnElement(sh.getChildRoom(), "3");	    
+	}
+
+	@Then("^user select the hotel$")
+	public void user_select_the_hotel() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+}

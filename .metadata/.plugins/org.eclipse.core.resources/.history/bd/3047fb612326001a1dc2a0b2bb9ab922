@@ -1,0 +1,15 @@
+Feature: Login functionality for adactin application
+
+
+Scenario Outline: Successfull login into the adactin application with valied credential
+
+When user enter apllication url  
+And user enter "<username>" as username
+And user enter "<password>" as password
+Then user verify the username in the homepage
+
+Examples:
+|username|password|
+|arun|1111|
+|bala|2222|
+|ragu1234|ragu1234|

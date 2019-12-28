@@ -1,0 +1,50 @@
+package com.adactin.helper;
+
+import org.openqa.selenium.WebDriver;
+
+import com.adactin.pom.BookHotelPage;
+import com.adactin.pom.BookedItineraryPage;
+import com.adactin.pom.BookingConfirmPage;
+import com.adactin.pom.LoginPage;
+import com.adactin.pom.SearchHotelPage;
+import com.adactin.pom.SelectHotelPage;
+
+public class PageObjectManager {
+	public static WebDriver driver;
+	
+	private LoginPage lp;
+	private BookedItineraryPage bip;
+	private BookHotelPage bhp;
+	private BookingConfirmPage bcp;
+	private SearchHotelPage srcp;
+	private SelectHotelPage selp;
+	
+	public PageObjectManager(WebDriver driver) {
+		this.driver=driver;
+	}
+	
+	public LoginPage getLp() {
+		return lp;
+	}
+	
+	public BookedItineraryPage getBip() {
+		return bip;
+	}
+	
+	public BookHotelPage getBhp() {
+		return bhp;
+	}
+	
+	public BookingConfirmPage getBcp() {
+		return bcp;
+	}
+	
+	public SearchHotelPage getSrcp() {
+		return srcp;
+	}
+	
+	public SelectHotelPage getSelp() {
+		return selp;
+	}
+
+}
