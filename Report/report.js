@@ -82,7 +82,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 519399,
+  "duration": 311638,
   "status": "passed"
 });
 formatter.background({
@@ -106,14 +106,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 116967049,
+  "duration": 540579453,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 84074,
+  "duration": 99837,
   "status": "passed"
 });
 formatter.scenario({
@@ -160,7 +160,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_apllication_url()"
 });
 formatter.result({
-  "duration": 4424606500,
+  "duration": 5574705652,
   "status": "passed"
 });
 formatter.match({
@@ -173,7 +173,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 163368584,
+  "duration": 183717774,
   "status": "passed"
 });
 formatter.match({
@@ -186,22 +186,22 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 88042787,
+  "duration": 104174456,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_verify_the_username_in_the_homepage()"
 });
 formatter.result({
-  "duration": 595597517,
+  "duration": 625007124,
   "status": "passed"
 });
 formatter.after({
-  "duration": 903795,
+  "duration": 227160,
   "status": "passed"
 });
 formatter.before({
-  "duration": 507273,
+  "duration": 87307,
   "status": "passed"
 });
 formatter.background({
@@ -225,14 +225,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 144300,
+  "duration": 108730,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 149959,
+  "duration": 78415,
   "status": "passed"
 });
 formatter.scenario({
@@ -279,7 +279,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_apllication_url()"
 });
 formatter.result({
-  "duration": 456664536,
+  "duration": 520585702,
   "status": "passed"
 });
 formatter.match({
@@ -292,7 +292,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 85052908,
+  "duration": 93176983,
   "status": "passed"
 });
 formatter.match({
@@ -305,22 +305,22 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 102668013,
+  "duration": 90163268,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_verify_the_username_in_the_homepage()"
 });
 formatter.result({
-  "duration": 650122695,
+  "duration": 699098594,
   "status": "passed"
 });
 formatter.after({
-  "duration": 138237,
+  "duration": 94582,
   "status": "passed"
 });
 formatter.before({
-  "duration": 191188,
+  "duration": 105092,
   "status": "passed"
 });
 formatter.background({
@@ -344,14 +344,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 117622,
+  "duration": 109134,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 84478,
+  "duration": 74777,
   "status": "passed"
 });
 formatter.scenario({
@@ -398,7 +398,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_apllication_url()"
 });
 formatter.result({
-  "duration": 610350471,
+  "duration": 483838267,
   "status": "passed"
 });
 formatter.match({
@@ -411,7 +411,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 113119050,
+  "duration": 155438733,
   "status": "passed"
 });
 formatter.match({
@@ -424,22 +424,22 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 99723001,
+  "duration": 145983688,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_verify_the_username_in_the_homepage()"
 });
 formatter.result({
-  "duration": 1521775755,
+  "duration": 1323104111,
   "status": "passed"
 });
 formatter.after({
-  "duration": 108326,
+  "duration": 87712,
   "status": "passed"
 });
 formatter.before({
-  "duration": 135004,
+  "duration": 101858,
   "status": "passed"
 });
 formatter.background({
@@ -463,14 +463,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 111560,
+  "duration": 85690,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 101454,
+  "duration": 60226,
   "status": "passed"
 });
 formatter.scenario({
@@ -536,71 +536,71 @@ formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_location()"
 });
 formatter.result({
-  "duration": 226974151,
+  "duration": 758962629,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_hotel()"
 });
 formatter.result({
-  "duration": 162811190,
+  "duration": 167559881,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_room()"
 });
 formatter.result({
-  "duration": 156271612,
+  "duration": 148480835,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_NumberOfRooms()"
 });
 formatter.result({
-  "duration": 142261985,
+  "duration": 162214741,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_check_in_date()"
 });
 formatter.result({
-  "duration": 112794072,
+  "duration": 96988994,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_check_out_date()"
 });
 formatter.result({
-  "duration": 88234379,
+  "duration": 91793811,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_adult_per_room()"
 });
 formatter.result({
-  "duration": 138386500,
+  "duration": 142227053,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_enter_children_per_room()"
 });
 formatter.result({
-  "duration": 163830182,
+  "duration": 187081527,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchHotelStepDefinition.user_select_the_hotel()"
 });
 formatter.result({
-  "duration": 1895365142,
+  "duration": 1339487143,
   "status": "passed"
 });
 formatter.after({
-  "duration": 122069,
+  "duration": 96199,
   "status": "passed"
 });
 formatter.before({
-  "duration": 170978,
+  "duration": 86095,
   "status": "passed"
 });
 formatter.background({
@@ -624,14 +624,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 118027,
+  "duration": 105497,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 84478,
+  "duration": 68309,
   "status": "passed"
 });
 formatter.scenario({
@@ -662,26 +662,26 @@ formatter.match({
   "location": "SelectHotelStepDefinition.user_enter_HotelDetails()"
 });
 formatter.result({
-  "duration": 112612990,
+  "duration": 111489263,
   "status": "passed"
 });
 formatter.match({
   "location": "SelectHotelStepDefinition.user_select_continue()"
 });
 formatter.result({
-  "duration": 1317073516,
+  "duration": 1116133116,
   "status": "passed"
 });
 formatter.after({
-  "duration": 135811,
+  "duration": 89732,
   "status": "passed"
 });
 formatter.before({
-  "duration": 166531,
+  "duration": 80031,
   "status": "passed"
 });
 formatter.before({
-  "duration": 47292,
+  "duration": 81649,
   "status": "passed"
 });
 formatter.background({
@@ -705,14 +705,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 100646,
+  "duration": 81244,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 70735,
+  "duration": 50121,
   "status": "passed"
 });
 formatter.scenario({
@@ -778,71 +778,71 @@ formatter.match({
   "location": "BookHotelStepDefinition.user_enter_FirstName()"
 });
 formatter.result({
-  "duration": 116201895,
+  "duration": 154455719,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_enter_LastName()"
 });
 formatter.result({
-  "duration": 99974414,
+  "duration": 118233743,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_enter_BillingAddress()"
 });
 formatter.result({
-  "duration": 99047580,
+  "duration": 105719308,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_enter_CcNumber()"
 });
 formatter.result({
-  "duration": 152921185,
+  "duration": 166194494,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_enter_CcType()"
 });
 formatter.result({
-  "duration": 145916371,
+  "duration": 136634542,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_enter_CcExpiryMonth()"
 });
 formatter.result({
-  "duration": 155117616,
+  "duration": 129886828,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_enter_CcExpiryYear()"
 });
 formatter.result({
-  "duration": 133434222,
+  "duration": 149798122,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_enter_CvvNumber()"
 });
 formatter.result({
-  "duration": 90865327,
+  "duration": 82873926,
   "status": "passed"
 });
 formatter.match({
   "location": "BookHotelStepDefinition.user_select_the_BookNow()"
 });
 formatter.result({
-  "duration": 82463996,
+  "duration": 92394857,
   "status": "passed"
 });
 formatter.after({
-  "duration": 76394,
+  "duration": 63056,
   "status": "passed"
 });
 formatter.before({
-  "duration": 89733,
+  "duration": 98625,
   "status": "passed"
 });
 formatter.background({
@@ -866,14 +866,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 56992,
+  "duration": 67097,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 37591,
+  "duration": 43653,
   "status": "passed"
 });
 formatter.scenario({
@@ -899,15 +899,15 @@ formatter.match({
   "location": "BookingConfirmStepDefinition.user_enter_Itinerary()"
 });
 formatter.result({
-  "duration": 9302516196,
+  "duration": 9208979868,
   "status": "passed"
 });
 formatter.after({
-  "duration": 147129,
+  "duration": 104687,
   "status": "passed"
 });
 formatter.before({
-  "duration": 128940,
+  "duration": 149958,
   "status": "passed"
 });
 formatter.background({
@@ -931,14 +931,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 113985,
+  "duration": 104284,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.go_to_landing_page()"
 });
 formatter.result({
-  "duration": 84882,
+  "duration": 101858,
   "status": "passed"
 });
 formatter.scenario({
@@ -964,11 +964,11 @@ formatter.match({
   "location": "BookedItineraryStepDefinition.user_enter_Logout()"
 });
 formatter.result({
-  "duration": 648349059,
+  "duration": 701761463,
   "status": "passed"
 });
 formatter.after({
-  "duration": 151576,
+  "duration": 86903,
   "status": "passed"
 });
 });
